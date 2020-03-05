@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	font-family: sans-serif;
+
+}
+.container{
+	width: 960px;
+	margin: 0 auto;
+}
+.about1-us{
+	margin-top: 20px;
+}
+.about1-us h2{
+	color: red;
+	border-bottom: 1px solid #ddd;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+.about1-us p{
+	
+	column-count: 3;
+}
+a,input{
+	margin-top: 10px;
+	padding: 7px 15px;
+	
+	color: #fff;
+}
+input{
+	background-color: #3498db;
+	border:0px;display: inline-block;
+}
+input:hover{
+	border: 1px solid #ddd;
+}
